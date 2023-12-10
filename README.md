@@ -1,0 +1,2 @@
+# XRPLTradePlanner
+XRPLedger上でOCO注文や逆指値注文を可能にします。
